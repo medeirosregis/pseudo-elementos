@@ -1,5 +1,5 @@
 # PSEUDO-ELEMENTOS
-Hoje vamos revisar os pseudo-elementos em CSS de forma prática.
+Hoje vamos revisar os pseudo-elementos em CSS.
 
 O que são pseudo-elementos?
 Pseudo-elementos são palavras-chave adicionadas a seletores em CSS que permitem estilizar partes específicas de um elemento sem precisar adicionar classes extras no HTML.
